@@ -1,0 +1,24 @@
+{
+  "name": "proj-2-test-repo",
+  "version": "1.0.0",
+  "description": "Test Area to develop backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanMilburn/Proj-2-Test-Repo.git"
+  },
+  "author": "NathanM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanMilburn/Proj-2-Test-Repo/issues"
+  },
+  "homepage": "https://github.com/NathanMilburn/Proj-2-Test-Repo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
